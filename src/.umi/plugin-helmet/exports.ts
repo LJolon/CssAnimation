@@ -1,3 +1,3 @@
 // @ts-nocheck
 // @ts-ignore
-export { Helmet } from '/Users/linzhoulong/selfspace/jolonProject001/node_modules/react-helmet';
+export { Helmet } from '/Users/linzhoulong/selfspace/CssAnimation/node_modules/react-helmet';
